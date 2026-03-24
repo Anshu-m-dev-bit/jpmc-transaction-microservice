@@ -61,7 +61,7 @@ The architecture emphasizes clean layering, transactional consistency, and relia
 ## 📄 Certificate
 
 Certificate of Completion:  
-![View Certificate](Forage.pdf)
+![View Certificate](./certificate/Forage.pdf)
 
 ---
 
